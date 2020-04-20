@@ -12,7 +12,7 @@
     "cron": "^1.8.2"
   },
   "engines": {
-    "node": "8.x"
+    "node": "12.x"
   },
   "repository": {
     "url": ""
@@ -20,8 +20,6 @@
   "keywords": [
     "node",
     "glitch",
-    "gomix",
-    "hyperdev",
     "twitter",
     "twitterbot",
     "bot"

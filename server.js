@@ -22,6 +22,9 @@ let listener = app.listen( process.env.PORT, function(){
   /*
     Set up a new cron job to start tweeting automatically.
     Check out https://www.npmjs.com/package/cron#available-cron-patterns to learn more about cron scheduling patterns.
+    
+    For a few examples, see https://glitch.com/edit/#!/creative-bots?path=helpers%2Fcron-schedules.js
+
   */
 
   ( new CronJob( '0 */2 * * *', function() {

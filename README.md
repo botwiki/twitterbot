@@ -3,7 +3,7 @@ Glitch Twitter bot template
 
 ![Tweetin'](https://cdn.gomix.com/4032b241-bff8-473e-aa6b-eb0c92a4bd06%2Ftweeting.gif)
 
-This is a template for making creative Twitter bots with [Glitch](https://glitch.com/) and the [Twit](https://github.com/ttezel/twit) node.js library.
+This is a template for making creative Twitter bots with [Glitch](https://glitch.com/) and the [Twit](https://github.com/ttezel/twit) node.js library. This project requires a [paid subscription](https://glitch.com/pricing).
 
 ## A quick tutorial
 
